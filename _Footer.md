@@ -1,2 +1,1 @@
-© Versta, 2017.
-[verstaburo.com](http://verstaburo.com)
+Документ составлен и дополняется [бюро Versta](http://verstaburo.com) с 2017 года
