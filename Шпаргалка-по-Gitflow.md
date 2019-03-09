@@ -68,3 +68,5 @@
 ## Команды
 
 ![#](https://danielkummer.github.io/git-flow-cheatsheet/img/git-flow-commands.png)
+
+_Источник: https://danielkummer.github.io/git-flow-cheatsheet/index.ru_RU.html_
